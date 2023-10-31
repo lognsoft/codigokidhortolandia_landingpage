@@ -15,6 +15,13 @@ url("../fonts/flaticon.svg?99008aa38e7de407db084b96baa4b2a2#flaticon") format("s
     z-index: 1000;
 }
 
+/* Estilos para a imagem do ícone do WhatsApp */
+.whatsapp img {
+    width: 80px !important; /* Ajuste o tamanho da imagem conforme necessário */
+    height: auto;
+    border: none;
+}
+
 .videoButton{
     border-radius: 50%;
     background-color: #f74780;
@@ -22,12 +29,7 @@ url("../fonts/flaticon.svg?99008aa38e7de407db084b96baa4b2a2#flaticon") format("s
     height: 150px;
 }
 
-/* Estilos para a imagem do ícone do WhatsApp */
-.whatsapp img {
-    width: 100px !important; /* Ajuste o tamanho da imagem conforme necessário */
-    height: auto;
-    border: none;
-}
+
 
 /*hack*/
 
